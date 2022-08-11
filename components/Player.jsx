@@ -80,7 +80,7 @@ function Player() {
         />
         <div>
           <h3>{songInfo?.name}</h3>
-          <p className='text-gray-500'>{songInfo?.artists?.[0]?.name}</p>
+          <p className="text-gray-500">{songInfo?.artists?.[0]?.name}</p>
         </div>
       </div>
 
