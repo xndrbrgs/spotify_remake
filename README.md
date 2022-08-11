@@ -1,23 +1,23 @@
-# Next.js + Tailwind CSS Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+  
+  # Spotify Web Player Remake
 
-## Deploy your own
+  ## Description
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+  This project was created to learn more about the in's and out's of the powerful combination between React, NextJS, and TailwindCSS. With these three combined, it was a no-brainer to try my hands into recreating one of my favorite large-scale applications that I use in my daily life, Spotify.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+  <p align="center">
+  <img src="https://i.ibb.co/PrK0ggS/spotiofy.png">  
+</p>
 
-## How to use
+  ## Licensing 📄
+  Distributed under MIT licensing. 
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+  ## Contributing 🙋‍♂️
+  New users can take a look at some of the components that were required for this project by looking at the source files in the repo.
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
-```
+  <!-- ## Testing 🧪
+  nmp test -->
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+  ## Contact 🤳
+  If you have any questions regarding this project, feel free to contact me directly at aborgescolon@gmail.com, or on my GitHub at https://github.com/xndrbrgs.
